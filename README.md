@@ -159,7 +159,7 @@ Enviar un mensaje a telegram mediante CI/CD, para notificar una integración en 
 
 3. Crear canal en telegram
 
-4. Registrar el "token y id" de telegram en el baùl de secretos de github
+4. Registrar el "token y id" de telegram en el baùl de secretos en github
    
 . Ejemplo:
 
