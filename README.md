@@ -23,7 +23,7 @@
 
 
 ## 🏆 H-1
-Enviar un mensaje de hola mundo cuando se haga un push a la rama main
+Enviar un mensaje de hola mundo cuando se haga un push a la rama main.
 
 1. crear el directorio .github/workflows
 
@@ -53,8 +53,8 @@ jobs:
 
 
 ## 🏆 H-2
-Enviar un mensaje de (Hola Developer sino Hola Main) cuando se haga un push a las ramas
-correspondientes de: Main y Developer.
+Enviar un mensaje de (Hola Developer sino Hola Main)
+cuando se haga un push a las ramas correspondientes de: Main y Developer.
 
 1. crear el directorio .github/workflows
 
@@ -93,7 +93,7 @@ correspondientes de: Main y Developer.
 
 
 ## 🏆 H-3
-Enviar un mensaje cuando se detecte un pull_request a la rama main
+Enviar un mensaje cuando se detecte un pull_request a la rama main.
 
 1. crear el directorio .github/workflows
 
@@ -112,7 +112,7 @@ Enviar un mensaje cuando se detecte un pull_request a la rama main
 
 
 ## 🏆 H-4
-Enviar un mensaje cuando se detecte un pull_request a la rama main
+Desarrollar el proceso de minify un archivo.js.
 
 💡 [link: auto-commit-action:](https://github.com/stefanzweifel/git-auto-commit-action)
 
@@ -149,7 +149,7 @@ Enviar un mensaje cuando se detecte un pull_request a la rama main
 
 
 ## 🏆 H-5
-Enviar un mensaje cuando se detecte un pull_request a la rama main
+Enviar un mensaje a telegram mediante CI/CD, para notificar una integración en main. 
 
 💡 [link: telegram-action:](https://github.com/appleboy/telegram-action)
 
